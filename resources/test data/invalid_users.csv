@@ -1,0 +1,9 @@
+Scenario,Username,Password
+Login with valid username and invalid password ,gem,osa
+Login with invalid username and valid password ,osa,gem
+Login with invalid username and invalid password ,osa,osa
+Login with empty username and invalid password ,,osa
+Login with empty username and valid password ,,gem
+Login with empty username and empty password ,,
+Login with invalid username and empty password ,osa,
+Login with valid username and empty password ,gem,

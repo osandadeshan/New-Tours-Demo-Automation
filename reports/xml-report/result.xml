@@ -1,0 +1,21 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="C:\Users\unimaos\IdeaProjects\New-Tours-Demo-Automation\specs\Login - Negative Tests.spec" time="32.117" timestamp="2018-09-30T16:54:41" name="Login - Negative Tests Specification" errors="0" hostname="LKSRIWL-HLPP662">
+		<properties></properties>
+		<testcase classname="Login - Negative Tests Specification" name="Login with invalid credentials 1" time="4.110"></testcase>
+		<testcase classname="Login - Negative Tests Specification" name="Login with invalid credentials 2" time="3.079"></testcase>
+		<testcase classname="Login - Negative Tests Specification" name="Login with invalid credentials 3" time="3.040"></testcase>
+		<testcase classname="Login - Negative Tests Specification" name="Login with invalid credentials 4" time="3.038"></testcase>
+		<testcase classname="Login - Negative Tests Specification" name="Login with invalid credentials 5" time="4.257"></testcase>
+		<testcase classname="Login - Negative Tests Specification" name="Login with invalid credentials 6" time="3.030"></testcase>
+		<testcase classname="Login - Negative Tests Specification" name="Login with invalid credentials 7" time="3.046"></testcase>
+		<testcase classname="Login - Negative Tests Specification" name="Login with invalid credentials 8" time="8.517"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+	<testsuite id="2" tests="1" failures="0" package="C:\Users\unimaos\IdeaProjects\New-Tours-Demo-Automation\specs\Login - Positive Tests.spec" time="9.023" timestamp="2018-09-30T16:54:41" name="Login - Positive Tests Specification" errors="0" hostname="LKSRIWL-HLPP662">
+		<properties></properties>
+		<testcase classname="Login - Positive Tests Specification" name="Login with valid username and valid password 1" time="9.023"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

@@ -1,0 +1,737 @@
+{
+	"projectName": "New-Tours-Demo-Automation",
+	"timestamp": "Sep 30, 2018 at 4:53pm",
+	"successRate": 100,
+	"environment": "dev",
+	"tags": "",
+	"executionTime": 61963,
+	"executionStatus": "pass",
+	"specResults": [
+		{
+			"specHeading": "Login - Negative Tests Specification",
+			"fileName": "C:\\Users\\unimaos\\IdeaProjects\\New-Tours-Demo-Automation\\specs\\Login - Negative Tests.spec",
+			"tags": [],
+			"executionTime": 32117,
+			"executionStatus": "pass",
+			"scenarios": [
+				{
+					"scenarioHeading": "Login with invalid credentials",
+					"tags": [],
+					"executionTime": 4110,
+					"executionStatus": "pass",
+					"contexts": [],
+					"teardowns": [],
+					"items": [
+						{
+							"itemType": "step",
+							"stepText": "On login page",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 1591,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Login to the application using the username as \u003cUsername\u003e and password as \u003cPassword\u003e",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 2503,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Page title is \"Sign-on: Mercury Tours\"",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 16,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"beforeScenarioHookFailure": null,
+					"afterScenarioHookFailure": null,
+					"skipErrors": [],
+					"tableRowIndex": 0
+				},
+				{
+					"scenarioHeading": "Login with invalid credentials",
+					"tags": [],
+					"executionTime": 3079,
+					"executionStatus": "pass",
+					"contexts": [],
+					"teardowns": [],
+					"items": [
+						{
+							"itemType": "step",
+							"stepText": "On login page",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 866,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Login to the application using the username as \u003cUsername\u003e and password as \u003cPassword\u003e",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 2203,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Page title is \"Sign-on: Mercury Tours\"",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 10,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"beforeScenarioHookFailure": null,
+					"afterScenarioHookFailure": null,
+					"skipErrors": [],
+					"tableRowIndex": 1
+				},
+				{
+					"scenarioHeading": "Login with invalid credentials",
+					"tags": [],
+					"executionTime": 3040,
+					"executionStatus": "pass",
+					"contexts": [],
+					"teardowns": [],
+					"items": [
+						{
+							"itemType": "step",
+							"stepText": "On login page",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 832,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Login to the application using the username as \u003cUsername\u003e and password as \u003cPassword\u003e",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 2200,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Page title is \"Sign-on: Mercury Tours\"",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 8,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"beforeScenarioHookFailure": null,
+					"afterScenarioHookFailure": null,
+					"skipErrors": [],
+					"tableRowIndex": 2
+				},
+				{
+					"scenarioHeading": "Login with invalid credentials",
+					"tags": [],
+					"executionTime": 3038,
+					"executionStatus": "pass",
+					"contexts": [],
+					"teardowns": [],
+					"items": [
+						{
+							"itemType": "step",
+							"stepText": "On login page",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 791,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Login to the application using the username as \u003cUsername\u003e and password as \u003cPassword\u003e",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 2238,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Page title is \"Sign-on: Mercury Tours\"",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 9,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"beforeScenarioHookFailure": null,
+					"afterScenarioHookFailure": null,
+					"skipErrors": [],
+					"tableRowIndex": 3
+				},
+				{
+					"scenarioHeading": "Login with invalid credentials",
+					"tags": [],
+					"executionTime": 4257,
+					"executionStatus": "pass",
+					"contexts": [],
+					"teardowns": [],
+					"items": [
+						{
+							"itemType": "step",
+							"stepText": "On login page",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 793,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Login to the application using the username as \u003cUsername\u003e and password as \u003cPassword\u003e",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 3455,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Page title is \"Sign-on: Mercury Tours\"",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 9,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"beforeScenarioHookFailure": null,
+					"afterScenarioHookFailure": null,
+					"skipErrors": [],
+					"tableRowIndex": 4
+				},
+				{
+					"scenarioHeading": "Login with invalid credentials",
+					"tags": [],
+					"executionTime": 3030,
+					"executionStatus": "pass",
+					"contexts": [],
+					"teardowns": [],
+					"items": [
+						{
+							"itemType": "step",
+							"stepText": "On login page",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 782,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Login to the application using the username as \u003cUsername\u003e and password as \u003cPassword\u003e",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 2234,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Page title is \"Sign-on: Mercury Tours\"",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 14,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"beforeScenarioHookFailure": null,
+					"afterScenarioHookFailure": null,
+					"skipErrors": [],
+					"tableRowIndex": 5
+				},
+				{
+					"scenarioHeading": "Login with invalid credentials",
+					"tags": [],
+					"executionTime": 3046,
+					"executionStatus": "pass",
+					"contexts": [],
+					"teardowns": [],
+					"items": [
+						{
+							"itemType": "step",
+							"stepText": "On login page",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 793,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Login to the application using the username as \u003cUsername\u003e and password as \u003cPassword\u003e",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 2244,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Page title is \"Sign-on: Mercury Tours\"",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 9,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"beforeScenarioHookFailure": null,
+					"afterScenarioHookFailure": null,
+					"skipErrors": [],
+					"tableRowIndex": 6
+				},
+				{
+					"scenarioHeading": "Login with invalid credentials",
+					"tags": [],
+					"executionTime": 8517,
+					"executionStatus": "pass",
+					"contexts": [],
+					"teardowns": [],
+					"items": [
+						{
+							"itemType": "step",
+							"stepText": "On login page",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 800,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Login to the application using the username as \u003cUsername\u003e and password as \u003cPassword\u003e",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 7707,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Page title is \"Sign-on: Mercury Tours\"",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 10,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"beforeScenarioHookFailure": null,
+					"afterScenarioHookFailure": null,
+					"skipErrors": [],
+					"tableRowIndex": 7
+				}
+			],
+			"isTableDriven": true,
+			"datatable": {
+				"headers": [
+					"Scenario",
+					"Username",
+					"Password"
+				],
+				"rows": [
+					{
+						"cells": [
+							"Login with valid username and invalid password ",
+							"gem",
+							"osa"
+						]
+					},
+					{
+						"cells": [
+							"Login with invalid username and valid password ",
+							"osa",
+							"gem"
+						]
+					},
+					{
+						"cells": [
+							"Login with invalid username and invalid password ",
+							"osa",
+							"osa"
+						]
+					},
+					{
+						"cells": [
+							"Login with empty username and invalid password ",
+							"",
+							"osa"
+						]
+					},
+					{
+						"cells": [
+							"Login with empty username and valid password ",
+							"",
+							"gem"
+						]
+					},
+					{
+						"cells": [
+							"Login with empty username and empty password ",
+							"",
+							""
+						]
+					},
+					{
+						"cells": [
+							"Login with invalid username and empty password ",
+							"osa",
+							""
+						]
+					},
+					{
+						"cells": [
+							"Login with valid username and empty password ",
+							"gem",
+							""
+						]
+					}
+				]
+			},
+			"beforeSpecHookFailure": null,
+			"afterSpecHookFailure": null,
+			"passedScenarioCount": 1,
+			"failedScenarioCount": 0,
+			"skippedScenarioCount": 0
+		},
+		{
+			"specHeading": "Login - Positive Tests Specification",
+			"fileName": "C:\\Users\\unimaos\\IdeaProjects\\New-Tours-Demo-Automation\\specs\\Login - Positive Tests.spec",
+			"tags": [],
+			"executionTime": 9023,
+			"executionStatus": "pass",
+			"scenarios": [
+				{
+					"scenarioHeading": "Login with valid username and valid password",
+					"tags": [],
+					"executionTime": 9023,
+					"executionStatus": "pass",
+					"contexts": [],
+					"teardowns": [
+						{
+							"itemType": "step",
+							"stepText": "Sign out from the application",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 6764,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"items": [
+						{
+							"itemType": "step",
+							"stepText": "On login page",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 819,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Login to the application using the username as \u003cUsername\u003e and password as \u003cPassword\u003e",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 8197,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						},
+						{
+							"itemType": "step",
+							"stepText": "Page title is \"Find a Flight: Mercury Tours:\"",
+							"table": null,
+							"beforeStepHookFailure": null,
+							"afterStepHookFailure": null,
+							"result": {
+								"status": "pass",
+								"stackTrace": "",
+								"screenshot": "",
+								"errorMessage": "",
+								"executionTime": 7,
+								"skippedReason": "",
+								"messages": [],
+								"errorType": "assertion"
+							}
+						}
+					],
+					"beforeScenarioHookFailure": null,
+					"afterScenarioHookFailure": null,
+					"skipErrors": [],
+					"tableRowIndex": 0
+				}
+			],
+			"isTableDriven": true,
+			"datatable": {
+				"headers": [
+					"First Name",
+					"Last Name",
+					"Email",
+					"Username",
+					"Password"
+				],
+				"rows": [
+					{
+						"cells": [
+							"Gemunu",
+							"Priyadarshana",
+							"gemunu@mailinator.com",
+							"gem",
+							"gem"
+						]
+					}
+				]
+			},
+			"beforeSpecHookFailure": null,
+			"afterSpecHookFailure": null,
+			"passedScenarioCount": 1,
+			"failedScenarioCount": 0,
+			"skippedScenarioCount": 0
+		}
+	],
+	"beforeSuiteHookFailure": null,
+	"afterSuiteHookFailure": null,
+	"passedSpecsCount": 2,
+	"failedSpecsCount": 0,
+	"skippedSpecsCount": 0,
+	"passedScenariosCount": 2,
+	"failedScenariosCount": 0,
+	"skippedScenariosCount": 0
+}
